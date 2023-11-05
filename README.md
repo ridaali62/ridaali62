@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rida Ali</h1>
-<h3 align="center">A passionate flutter developer from Pakistan</h3>
+<h3 align="center">A dedicated Flutter application developer with a deep love for crafting beautiful and functional mobile apps. I'm on a mission to create seamless and delightful user experiences through Flutter.</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 
