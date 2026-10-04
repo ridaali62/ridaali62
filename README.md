@@ -21,6 +21,8 @@ Software Engineering graduate (KIET, Karachi). I build web apps and REST APIs wi
 ---
 
 ### 📌 Featured Projects
+- **[club-concierge](https://github.com/ridaali62/club-concierge)**: RAG assistant that answers club members' questions only from approved documents, with citations, public/members-only access and agent tools that book tee times. Measured on a 30-question evaluation set: 24/24 correct answers, 6/6 correct refusals (Python, FastAPI, Gemini)
+- **[tee-time-booking](https://github.com/ridaali62/tee-time-booking)**: ASP.NET Core 8 Web API with EF Core and SQL Server, an Angular booking screen, and 15 xUnit tests for the club's booking rules
 - **[Backend-Auth-Api](https://github.com/ridaali62/Backend-Auth-Api)**: Node.js, Express, PostgreSQL, Prisma, JWT and bcrypt auth API with role-based admin access
 - **[Nextjs-Saynt-website](https://github.com/ridaali62/Nextjs-Saynt-website)**: company website built during my SAYNT AI internship (Next.js 14, TypeScript, Tailwind)
 - **[coffee-shop-app](https://github.com/ridaali62/coffee-shop-app)**: C# console app showing OOP (abstract classes, inheritance, polymorphism)
@@ -42,7 +44,7 @@ Software Engineering graduate (KIET, Karachi). I build web apps and REST APIs wi
 ### 🛠️ Tech Stack
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,postgres,prisma,mysql,php,flutter,dart,c,cs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,dotnet,py,fastapi,nextjs,tailwind,bootstrap,nodejs,express,mongodb,postgres,prisma,mysql,php,flutter,dart,c,cs" />
 
 </p>
 
